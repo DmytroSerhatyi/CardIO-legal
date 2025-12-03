@@ -2,11 +2,15 @@
   box-sizing: border-box;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   position: relative;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100%;
   margin: 0;
   font-family: sans-serif;
   font-size: 14px;
@@ -26,10 +30,6 @@ main {
   background-image: linear-gradient(135deg, #8bfda9 0, #8afda9 3%, #87e9c4 14%, #85dad9 27%, #78c5ec 46%, #5ba7ff 59%, #577ef1 76%, #4b54f3 88%, #4838c8 100%);
   background-repeat: no-repeat;
   padding: 115px 0 20px;
-
-  p {
-    margin-bottom: 0;
-  }
 }
 
 footer {
@@ -69,6 +69,35 @@ ul {
 
 .bold-text {
   font-weight: 700;
+}
+
+.download-app-btn-banner {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 20px;
+  border: 2px solid #000;
+  border-radius: 16px;
+  padding: 4px 12px;
+  color: #000;
+  text-decoration: none;
+}
+
+.download-app-btn-banner-logo {
+  font-size: 48px;
+}
+
+.download-app-btn-banner-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.download-app-btn-banner-text-small {
+  font-size: 12px;
+}
+
+.download-app-btn-banner-text-large {
+  font-size: 22px;
 }
 
 .footer-logo {
