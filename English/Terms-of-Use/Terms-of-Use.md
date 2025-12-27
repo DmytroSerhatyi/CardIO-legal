@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last updated: November 15, 2025**
+**Last updated: December 11, 2025**
 
 ## 1. Purpose
 **CardIO** allows users to create, store, and manage various types of codes (QR, PDF417, Aztec, Code 128) for personal use, such as discount or loyalty cards. Users define how to use these codes at their own responsibility. **CardIO** does not guarantee that codes will work in specific stores or systems.
@@ -22,7 +22,12 @@ All user data is stored locally on the device using SwiftData and AppStorage. **
 All trademarks, logos, and other non-user content in **CardIO** are the property of **Dmytro Serhatyi** and protected by applicable intellectual property laws. Users may not copy, modify, or redistribute **CardIO** without prior written permission. Users retain ownership of any data or content they created within **CardIO** but grant **Dmytro Serhatyi** a limited right to store and display it locally within **CardIO** as intended. Users may not copy, modify, or redistribute any part of **CardIO** without prior written permission.
 
 ## 6. Advertising
-**CardIO** may display **non-personalized ads** provided by Google AdMob. These ads do not use tracking identifiers or personal data for targeting. By using **CardIO**, users acknowledge that AdMob may process limited technical data (e.g., device information or approximate location from IP) to deliver ads. See Google’s Privacy Policy: https://policies.google.com/privacy.
+**CardIO** may display ads provided by Google AdMob.
+* If users provide consent, AdMob may show personalized ads based on limited technical data (such as device type, IP address, or ad interactions).
+* If users do not provide consent, only non-personalized ads are shown.
+* **CardIO** does not collect or share any user data with advertisers; only AdMob collects and processes data according to its policies.
+
+For more information, see Google’s Privacy Policy: https://policies.google.com/privacy.
 
 ## 7. Acceptable Use
 Users agree not to:

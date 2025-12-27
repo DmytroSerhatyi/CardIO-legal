@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: November 15, 2025**
+**Last updated: December 11, 2025**
 
 ## 1. Overview
 **CardIO** is developed and operated by Dmytro Serhatyi. It allows users to create, store, and manage various types of codes (QR, PDF417, Aztec, Code 128) locally on their device for personal use.
@@ -18,10 +18,10 @@ To scan codes, **CardIO** may use the device camera, **subject to the user grant
 **CardIO** may include export and import features so users can back up or share their data. These actions are fully user-controlled - once data leaves **CardIO**, its handling is users' responsibility.
 
 ## 6. Advertising
-**CardIO** may display **non-personalized ads** through Google AdMob.
-* AdMob does not use data from **CardIO** for personalized ad targeting.
-* AdMob may process limited technical data (e.g., device type or approximate location from IP) to deliver and measure ads.
-* **CardIO** does not enable tracking or share user data with advertisers.
+**CardIO** may display ads through Google AdMob.
+* If users provide consent, AdMob may show personalized ads based on limited technical data (such as device type, IP address, or ad interactions).
+* If users do not provide consent, only non-personalized ads are shown.
+* **CardIO** does not collect or share any user data with advertisers; only AdMob collects and processes data according to its policies.
 
 For details, see Google’s Privacy Policy: https://policies.google.com/privacy.
 
